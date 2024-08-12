@@ -1,4 +1,4 @@
-
+Hi I am Srinivas Koushik a final Year CSE student proficient in web developement and is ready to take up challenges.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/g-srinivas-koushik-69506a217/) 
 
