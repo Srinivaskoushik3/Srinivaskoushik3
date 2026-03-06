@@ -9,4 +9,12 @@ Hi I am Srinivas Koushik a final Year CSE student proficient in web developement
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Srinivaskoushik3&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivaskoushik3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivaskoushik3&layout=compact&theme=tokyonight)
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srinivaskoushik3&theme=tokyo-night)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
